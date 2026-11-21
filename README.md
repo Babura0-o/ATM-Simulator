@@ -7,6 +7,7 @@ The project models common ATM workflows, including customer authentication, depo
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Application Preview](#application-preview)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Architecture](#architecture)
@@ -26,6 +27,10 @@ ATM Simulator is organized into three development stages:
 3. **Graphical ATM Application** — a desktop interface built with Raylib, supported by a separate ATM logic module.
 
 The graphical application separates interface rendering from core ATM operations. This makes the code easier to navigate, maintain, and extend than a single-file implementation.
+
+## Application Preview
+
+![ATM Simulator Dashboard](docs/screenshots/dashboard.png)
 
 ## Features
 
