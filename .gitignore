@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Packaged releases
+/Graphical-ATM/ATM_Desktop/release/
